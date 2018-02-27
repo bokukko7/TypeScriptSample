@@ -1,2 +1,2 @@
 # TypeScriptSample
-Visual Studi Code
+Visual Studio Code
